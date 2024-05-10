@@ -1,0 +1,8 @@
+{
+    "vscord.status.details.enabled": true,
+    "vscord.status.details.idle.enabled": true,
+    "vscord.file.size.humanReadable": true,
+    "vscord.behaviour.suppressNotifications": false,
+    "vscord.behaviour.statusBarAlignment": "Left",
+    "vscord.status.state.enabled": false
+}
