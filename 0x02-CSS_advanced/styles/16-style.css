@@ -456,7 +456,7 @@ a:active {
     font-weight: var(--font-weight-bold);
 }
 
-.container {
+.container{
     wide: 960px;
     margin-right: auto;
     margin-left: auto;
