@@ -386,8 +386,8 @@
     --section-tagline-transform: uppercase;
   
   /* ============== margins =================*/
-    --section-title-margin: 0px;
-    --section-tagline-margin: 0px;
+    --section-title-margin: 0;
+    --section-tagline-margin: 0;
 
   /* ============== paddings =================*/
     --section-padding: 5rem 0;
