@@ -567,19 +567,23 @@
   .social-link > svg {
     fill: var(--text-color);
   }
+  
   .row::after {
-    content: "";
-    display: table;
-    clear: both;
+      content: "";
+      display: table;
+      clear: both;
   }
-
+  
+  /*================== Simplify the column (col-) selector */
   [class^="col-"] {
     float: left;
     padding: 0.5rem;
   }
-
+  
+  /*================ Add a dark theme to sections ===================== */
   [data-section-theme="dark"] {
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
-    background-color: var(--color-black);
-}
+      --text-color: var(--color-white);
+      --section-title-color: var(--color-white);
+      background-color: var(--color-black);
+  }
+  
